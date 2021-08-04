@@ -1,0 +1,11 @@
+
+.select_class {
+    font-size: larger;
+    font-weight: bold;
+    margin: 1rem;
+    padding: 0.5rem;
+    color: white;
+    background-color: blue;
+    border-radius: 1rem;
+    opacity: 0.8;
+}
